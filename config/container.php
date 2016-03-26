@@ -1,5 +1,4 @@
 <?php
-
 use Aura\Di\ContainerBuilder;
 
 // Load configuration
